@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudo Desenvolvimento de Sistemas, SENAI/SC-Blumenau.<br>Procuro um primeiro trabalho ou estágio.
+Estudo Desenvolvimento de Sistemas, SENAI/SC-Blumenau.
 
 
 ## 🌐 Socials:
