@@ -1,8 +1,7 @@
 ---
 
 # 💫 About Me:
-Estudo Desenvolvimento de Sistemas, SENAI/SC-Blumenau.
-
+Olá! Me chamo Athos, tenho 20 anos (quase 21). Sou estudante de desenvolvimento de sistemas há pouco mais de 1 ano no SENAI/SC-Blumenau, além de diversos cursos menores.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/athos_guedes)
